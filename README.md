@@ -4,14 +4,11 @@
 ![TYPESCRIPT SUPPORT](https://img.shields.io/badge/typescript-support-blue?style=for-the-badge&logo=ts-node)
 ![SVELTE SUPPORT](https://img.shields.io/badge/library-SvelteKit%20compatible-orange?style=for-the-badge&logo=Svelte)
 
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bravur/bravur/blob/main/.github/readme/assets/logo-dm.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/bravur/bravur/blob/main/.github/readme/assets/logo-lm.png">
   <img width="200px" height="200px" alt="Bravur Logo" src="https://github.com/bravur/bravur/blob/main/.github/readme/assets/logo-dm.png">
 </picture>
-<br/>
 
 </div>
 
