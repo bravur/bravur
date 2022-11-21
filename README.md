@@ -6,6 +6,9 @@
   <img width="200px" height="200px" alt="Bravur Logo" src="https://github.com/bravur/bravur/blob/main/.github/readme/assets/logo-dm.png">
 </picture>
 
+</div>
+
+<br/>
 
 | **Package name** |  **Description**  |  **Status**  |
 |---|---|---|
@@ -13,15 +16,12 @@
 | [`bravur@layouts`](#) | **Extended layouts and views dependent on bravur.**  |  {invalid}  |
 |  [`bravur@services`](#) | **Extended layouts for dashboards and other services.** |  {invalid}  |
 
-</div>
-
-<br/>
 
 ## **🎉 Getting Started**
 **Before installing any packages, make sure to update your dependencies with the latest stable version.** We also recommend that you use the latest nodejs version. *(Support for older lts versions may be limited)*
 
 ```bash
-$ npm i bravur
+$ npm install bravur
 ```
 
 
