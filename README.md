@@ -17,7 +17,7 @@
 | **Package name** |  **Description**  |  **Status**  |
 |---|---|---|
 | [`bravur`](#) | **Main Svelte components and styles.**  | {invalid} |
-| [`bravur@layouts`](#) | **Extended layouts and views dependent on bravur.**  |  {invalid}  |
+| [`bravur@template`](#) | **Extended layouts and views dependent on bravur.**  |  {invalid}  |
 |  [`bravur@services`](#) | **Extended layouts for dashboards and other services.** |  {invalid}  |
 
 
