@@ -1,38 +1,42 @@
-# create-svelte
+<div align="center">
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+![NODEJS VERSION](https://img.shields.io/badge/NODEJS-LATEST-green?style=for-the-badge&logo=Node.js)
+![TYPESCRIPT SUPPORT](https://img.shields.io/badge/typescript-support-blue?style=for-the-badge&logo=ts-node)
+![SVELTE SUPPORT](https://img.shields.io/badge/library-SvelteKit%20compatible-orange?style=for-the-badge&logo=Svelte)
 
-## Creating a project
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bravur/bravur/blob/main/.github/readme/assets/logo-dm.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bravur/bravur/blob/main/.github/readme/assets/logo-lm.png">
+  <img width="200px" height="200px" alt="Bravur Logo" src="https://github.com/bravur/bravur/blob/main/.github/readme/assets/logo-dm.png">
+</picture>
 
-If you're seeing this, you've probably already done this step. Congrats!
+</div>
+<br/>
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+| **Package name**       | **Description**                                         | **Status** |
+| ---------------------- | ------------------------------------------------------- | ---------- |
+| [`bravur`](#)          | **Main Svelte components and styles.**                  | {invalid}  |
+| [`bravur@template`](#) | **Extended layouts and views dependent on bravur.**     | {invalid}  |
+| [`bravur@services`](#) | **Extended layouts for dashboards and other services.** | {invalid}  |
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## **🎉 Getting Started**
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
+**Before installing any packages, make sure to update your dependencies with the latest stable version.** We also recommend that you use the latest nodejs version. _(Support for older lts versions may be limited)_
 
 ```bash
-npm run build
+$ npm install bravur
 ```
 
-You can preview the production build with `npm run preview`.
+<!--Readme Footer-->
+<div align="center">
+<br/>
+<br/>
+<br/>
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bravur/bravur/blob/main/.github/readme/assets/cover-dm.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bravur/bravur/blob/main/.github/readme/assets/cover-lm.png">
+  <img width="100%" height="100%" alt="Bravur Cover" src="https://github.com/bravur/bravur/blob/main/.github/readme/assets/cover-dm.png">
+</picture>
+
+<div/>

@@ -11,7 +11,7 @@
             "outputs": []
         },
         "deploy": {
-            "dependsOn": ["build", "test", "lint"],
+            "dependsOn": ["build", "lint"],
             "outputs": []
         }
     }
