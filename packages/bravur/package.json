@@ -2,7 +2,6 @@
 	"name": "bravur",
 	"version": "0.0.3",
 	"scripts": {
-		"dev": "vite dev",
 		"build": "svelte-kit sync && svelte-package",
 		"deploy": "npm publish ./package/",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
